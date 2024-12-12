@@ -1,8 +1,3 @@
-# PC Robot Telegram Bot
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build](https://github.com/monokaijs/pc-robot-telegram-bot-csharp/actions/workflows/build-and-release.yml/badge.svg)](https://github.com/monokaijs/pc-robot-telegram-bot-csharp/actions)
-
 A Windows application that lets you control your PC remotely using Telegram bot commands. It provides functionality to schedule tasks, manage system resources, and interact with your computer through a Telegram interface.
 
 ## Features
